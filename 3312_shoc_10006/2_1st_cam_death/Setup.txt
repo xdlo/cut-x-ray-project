@@ -1,2 +1,2 @@
 В апдейт bind_stalker.script написать:
-sk_actor_death.is_killed()
+sk_actor_death.update()
