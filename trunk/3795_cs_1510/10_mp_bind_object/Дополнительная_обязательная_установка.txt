@@ -1,0 +1,3 @@
+В файл gamedata\config\mp_actor.ltx добавить строку:
+
+script_binding			= bind_stalker.actor_init
