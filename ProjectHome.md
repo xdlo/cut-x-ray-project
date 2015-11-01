@@ -1,0 +1,1 @@
+The main objective of the project - the creation of various binary patching the game engine and their subsequent combination.
